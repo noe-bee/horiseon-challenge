@@ -10,13 +10,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+    GitHub page: https://noe-bee.github.io/horiseon-challenge/
+    GitHub repository: https://github.com/noe-bee/horiseon-challenge
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+    ![horiseon-challenge full screenshot](./assets/images/webpage-screenshot.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
@@ -24,6 +22,6 @@ N/A
 
 ## License
 
-Refer to the license on the repo.
+Refer to the license on the repository.
 
 ---
