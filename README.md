@@ -9,12 +9,10 @@
 N/A
 
 ## Usage
+  GitHub page: https://noe-bee.github.io/horiseon-challenge/ <br></br>
+  GitHub repository: https://github.com/noe-bee/horiseon-challenge
 
-    GitHub page: https://noe-bee.github.io/horiseon-challenge/
-    GitHub repository: https://github.com/noe-bee/horiseon-challenge
-
-    ![horiseon-challenge full screenshot](./assets/images/webpage-screenshot.png)
-
+ ![image](./assets/images/webpage-screenshot.png)
 
 ## Credits
 
