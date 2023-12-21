@@ -2,16 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- This project consisted of a disorganized starter html code and css style sheet with minimal semantic strucutre. My task for this particular project was to refactor it, or in other words, clean up the code without changing its functionality. This will allow the code/website become more accessible for both users and developers. While refactoring this project code, I learned that, although time consuming, putting time into polishing, organizing, and commenting code saves time and frustration in the long run for whenever it is needed to refer back to. It also makes the code look more visually appealing.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
@@ -25,14 +20,10 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Refer to the license on the repo.
 
 ---
